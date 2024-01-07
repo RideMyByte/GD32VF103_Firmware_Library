@@ -1,0 +1,22 @@
+{
+  "name": "framework-gd32vf103-sdk",
+  "version": "9.2.1",
+  "description": "GD32VF103 Firmware Library",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "risc-v"
+  ],
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "windows_x86",
+    "windows_amd64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RideMyByte/GD32VF103_Firmware_Library"
+  }
+}
