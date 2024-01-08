@@ -1,22 +1,16 @@
 {
   "name": "framework-gd32vf103-sdk",
-  "version": "9.2.1",
-  "description": "GD32VF103 Firmware Library",
+  "version": "1.0.1",
+  "description": "GigaDevice GD32VF103 Firmware Library",
   "keywords": [
-    "build tools",
-    "compiler",
-    "assembler",
-    "linker",
-    "preprocessor",
-    "risc-v"
+    "framework",
+    "sdk",
+    "risc-v",
+    "gigadevice"
   ],
-  "license": "GPL-2.0-or-later",
-  "system": [
-    "windows_x86",
-    "windows_amd64"
-  ],
+  "homepage": "https://www.riscv-mcu.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RideMyByte/GD32VF103_Firmware_Library"
+    "url": "https://github.com/RideMyByte/GD32VF103_Firmware_Libraryy"
   }
 }
